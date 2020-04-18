@@ -1,0 +1,60 @@
+.nav-wrapper {
+    background-color: #6a09af;
+}
+
+.slider .indicators .indicator-item.active{
+    background-color: #6a09af;
+}
+
+.photo{
+    height: 200px;
+    width: auto;
+    object-fit: contain;
+ }
+
+ .movetext{
+     margin-top: 30px;
+ }
+ .moveimage{
+     margin-top: 50px;
+ }
+
+ .parallax-container{
+     min-height: 280px;
+     height: auto;
+ }
+
+ nav .brand-logo{
+     padding-left: 10px;
+ }
+
+ .icon-bike{
+     color: #6a09af;
+ }
+ 
+ .footer-one{
+     background-color: #331449;
+ }
+
+ .footer-two{
+     background-color: #6a09af;
+ }
+
+ .heart{
+     color: rgb(255, 44, 44);
+     font-size: 18px;
+ }
+
+ .side-bar{
+     background-color: rgba(255, 255, 255, 0.9);
+     
+ }
+
+ .side-bar li a{
+    color: #6a09af;
+    font-weight: bold;
+ }
+
+ .side-icon-style{
+    color: #6a09af;
+ }
